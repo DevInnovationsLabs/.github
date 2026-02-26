@@ -110,4 +110,4 @@ Please review the individual repository license files for complete terms and usa
 
 ### ⚡ “Innovation isn’t just about technology — it’s about impact.”
 
-© <span id="year"></span> Dev Innovations Labs. All rights reserved.
+© 2023–Present Dev Innovations Labs. All rights reserved.
