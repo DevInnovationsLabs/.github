@@ -1,13 +1,8 @@
 <div align="center">
 
-<!-- Optional: add logo. Dark/light safe.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-CDN/logo-dark.svg">
-  <img alt="Dev Innovations Labs" src="https://YOUR-CDN/logo-light.svg" height="90">
-</picture>
--->
+<img src="https://raw.githubusercontent.com/DevInnovationsLabs/.github/main/profile/logo-banner.png" alt="Dev Innovations Labs: Building Innovative Mobile Apps & Digital Experiences" width="100%">
 
-# Dev Innovations Labs
+<br><br>
 
 ### Innovate. Build. Evolve.
 
