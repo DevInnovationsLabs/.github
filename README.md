@@ -19,6 +19,10 @@ Product engineering for web, mobile and Web3. We build scalable, secure applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devinnovations-india/)
 [![Email](https://img.shields.io/badge/Email-Start_a_Project-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan@devinnovations.co.in)
 
+[![Instagram](https://img.shields.io/badge/Instagram-dev__innovations__labs-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev_innovations_labs/)
+[![Facebook](https://img.shields.io/badge/Facebook-DevInnovationsLabs-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/DevInnovationsLabs)
+[![X](https://img.shields.io/badge/X-@Dev__LabsIndia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Dev_LabsIndia)
+
 </div>
 
 ---
@@ -152,6 +156,9 @@ Have a product in mind? Send a short brief: what you're building, who it's for, 
 - 🌐 **Website:** [devinnovations.co.in](https://devinnovations.co.in/)
 - 💼 **LinkedIn:** [Dev Innovations](https://www.linkedin.com/company/devinnovations-india/)
 - 📧 **Email:** [sharan@devinnovations.co.in](mailto:sharan@devinnovations.co.in)
+- 📸 **Instagram:** [@dev_innovations_labs](https://www.instagram.com/dev_innovations_labs/)
+- 👍 **Facebook:** [DevInnovationsLabs](https://www.facebook.com/DevInnovationsLabs)
+- 🐦 **X:** [@Dev_LabsIndia](https://x.com/Dev_LabsIndia)
 
 ---
 
