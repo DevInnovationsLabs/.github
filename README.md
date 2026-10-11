@@ -11,13 +11,13 @@
 
 ### Innovate. Build. Evolve.
 
-We design and build secure, scalable apps, from mobile and web to AI and Web3, and take them all the way to production.
+Product engineering for web, mobile and Web3. We build scalable, secure applications for startups and enterprises, and take them all the way to production.
 
 <br>
 
+[![Website](https://img.shields.io/badge/Website-devinnovations.co.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devinnovations.co.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devinnovations-india/)
 [![Email](https://img.shields.io/badge/Email-Start_a_Project-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan@devinnovations.co.in)
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-6B7280?style=for-the-badge&logo=googlechrome&logoColor=white)](#-get-in-touch)
 
 </div>
 
@@ -25,13 +25,13 @@ We design and build secure, scalable apps, from mobile and web to AI and Web3, a
 
 ## 👋 About Us
 
-Dev Innovations Labs is a product-engineering studio based in India. We build applications that are fast, secure and easy to use, and we stay with them after launch.
+Dev Innovations Labs is a product engineering company based in India. We build applications that are fast, secure and easy to use, and we stay with them after launch.
 
 | | Principle | What it means |
 |:-:|---|---|
 | 💡 | **Creative engineering** | Ideas become production-ready software, not demos. |
 | 🔐 | **Secure by design** | Auth, rate limiting and data protection are built in from day one. |
-| ⚡ | **Fast, focused delivery** | Small iterations, weekly progress, no wasted cycles. |
+| ⚡ | **Fast, focused delivery** | Small iterations, steady progress, no wasted cycles. |
 | 🤝 | **Open collaboration** | Clear communication with clients, contributors and the community. |
 
 ---
@@ -40,22 +40,54 @@ Dev Innovations Labs is a product-engineering studio based in India. We build ap
 
 | Domain | What we build |
 |---|---|
-| 📱 **App Development** | High-performance mobile and web apps with **React Native**, **Next.js** and **Node.js**. |
+| 🌐 **Web Applications** | Fast, SEO-friendly web apps and platforms with **Next.js** and **Node.js**. |
+| 📱 **Mobile Apps** | Cross-platform iOS and Android apps with **React Native**, including smart assistant apps. |
 | 🔗 **Web3 & Blockchain** | Smart contracts, DApps, wallet integrations and on-chain payments. |
-| 🧬 **AI & Automation** | LLM-powered features, workflow automation, analysis and decision support. |
+| 🧬 **AI & Automation** | LLM-powered features, workflow automation and AI assistants. |
 | ☁️ **Cloud & Backend** | Scalable APIs and real-time systems on **Express.js**, **PostgreSQL** and **Sequelize**. |
 | 🎨 **Design & UX** | Clean, minimal, intuitive interfaces for every product we ship. |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Our Products
+
+Built and run by our team.
+
+### 🤖 [Flownaro](https://agent.devinnovations.co.in/): AI Automation & SEO Workspace
+Build visual AI workflows on a canvas, test them with dry runs, and keep control of every step.
+- Bring your own model: local **Ollama**, or **OpenAI** and **Gemini** with your own API key
+- Human approval steps, run history and workflow versions
+- Review compatible steps from an **n8n** export
+- SEO analysis tools for on-page, technical, off-page and local SEO
+
+[**Open the builder →**](https://agent.devinnovations.co.in/builder)
+
+### 🕒 [Timzi](https://timzi.in/): Smart HRM
+One connected workspace for your people, time and everyday work.
+- People, departments and permissions
+- Attendance, leave and holidays
+- Projects and tasks linked to the people doing the work
+- Free for up to 5 employees
+
+[**Visit Timzi →**](https://timzi.in/)
+
+### 🎙️ AI Interview Assistant
+A smart HR assistant that conducts candidate interviews, so hiring teams spend their time on decisions instead of first-round scheduling.
+
+### 🎓 [TheROAC](https://theroac.com): Career & Learning Platform
+A multi-module platform for students and early-career candidates in India.
+
+---
+
+## 🧩 Client & Flagship Projects
 
 | Project | Description | Highlights |
 |---|---|---|
+| 📸 **[Punjab Studio Bhadson](https://punjabstudio.in/)** | Website for a wedding photography and cinematic film studio in Patiala, Punjab. | Packages · Booking · Client galleries · English / ਪੰਜਾਬੀ / हिन्दी |
 | 💖 **Heartfelt** | Wellness and relationship app with AI-guided emotional insights. | AI · Mobile |
 | 🚖 **CoCab** | Cab-booking platform with real-time tracking and route optimization. | Real-time · Maps |
 | 💰 **Base Wallet** | Web3 wallet on the Base network for secure crypto transactions. | Web3 · Base |
-| 🎓 **[TheROAC](https://theroac.com)** | Multi-module career and learning platform for students and early-career candidates in India. | Next.js · Node.js · PostgreSQL |
+| 📲 **Mobile assistant apps** | A growing set of smart assistant apps for iOS and Android. | React Native · AI |
 
 ---
 
@@ -96,7 +128,7 @@ Dev Innovations Labs is a product-engineering studio based in India. We build ap
 
 ## 🌍 Join Us
 
-We're looking for engineers, designers and builders who care about shipping work that matters. If that's you, send us your portfolio or GitHub and a few lines about what you want to build.
+We're looking for engineers, designers and builders who care about shipping work that matters. If that's you, send your portfolio or GitHub and a few lines about what you want to build.
 
 ---
 
@@ -115,9 +147,11 @@ Contribution guidelines and a code of conduct are coming soon.
 
 ## 📬 Get in Touch
 
+Have a product in mind? Send a short brief: what you're building, who it's for, and your timeline.
+
+- 🌐 **Website:** [devinnovations.co.in](https://devinnovations.co.in/)
 - 💼 **LinkedIn:** [Dev Innovations](https://www.linkedin.com/company/devinnovations-india/)
 - 📧 **Email:** [sharan@devinnovations.co.in](mailto:sharan@devinnovations.co.in)
-- 🌐 **Website:** launching soon
 
 ---
 
