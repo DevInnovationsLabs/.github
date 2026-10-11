@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DevInnovationsLabs/.github/main/profile/logo-banner.png" alt="Dev Innovations Labs: Building Innovative Mobile Apps & Digital Experiences" width="100%">
-
-<br><br>
-
 ### Innovate. Build. Evolve.
 
 Product engineering for web, mobile and Web3. We build scalable, secure applications for startups and enterprises, and take them all the way to production.
