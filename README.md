@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- Optional: add logo. Dark/light safe.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-CDN/logo-dark.svg">
-  <img alt="Dev Innovations Labs" src="https://YOUR-CDN/logo-light.svg" height="90">
-</picture>
--->
-
-# Dev Innovations Labs
-
+<img src="https://raw.githubusercontent.com/DevInnovationsLabs/.github/main/profile/logo-banner.png" alt="Dev Innovations Labs: Building Innovative Mobile Apps & Digital Experiences" width="100%">
 ### Innovate. Build. Evolve.
 
 Product engineering for web, mobile and Web3. We build scalable, secure applications for startups and enterprises, and take them all the way to production.
